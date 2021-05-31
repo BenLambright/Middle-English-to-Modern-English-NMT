@@ -2,6 +2,8 @@
 
 The following is a brief description of the files in this repository.
 
+NOTE: The save files of what my models learned so far (state data) were too large to upload to github, thus, if the user wishes to run my code without having to train for hours first, I have turned in the files seperately. 
+
 * Chaucer - My dataset of interlinear translations from _The Canterbury Tales_.
 
 * ChaucerMaker.py - Code that splits Chaucer to put into my main datasets.
