@@ -1,5 +1,7 @@
 # Much of the following code is from this video tutorial: https://www.youtube.com/watch?v=EoGUlvhRYpk.
 
+# I have commented notes on the open-sourced code explaining what it means as well as noting changes I have made to it, such as changing german and english to me and pde
+
 
 # imports
 import torch # This is Pytorch
