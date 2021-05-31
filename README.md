@@ -2,7 +2,7 @@
 
 The following is a brief description of the files in this repository.
 
-NOTE: The save files of what my models learned so far (state data) were too large to upload to github, thus, if the user wishes to run my code without having to train for hours first, I have turned in the files seperately. 
+NOTE: The save files of what my models learned so far (state data) were too large to upload to github, thus, if the user wishes to run my code without having to train for hours first, I have turned in the files seperately. Additionally, any other files, including research, code, etc, are in my Senior Project folder, which was shared with Mr. Marsh at the start of the year.
 
 * Chaucer - My dataset of interlinear translations from _The Canterbury Tales_.
 
