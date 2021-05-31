@@ -24,6 +24,8 @@ NOTE: The save files of what my models learned so far (state data) were too larg
 
 * train.pde - My PDE train data.
 
+* train.xlsx - The spreadsheet of the glossed translations of train data.
+
 * utils.py - Extra code for the German translator. 
 
 * utils3.py - Nearly the same extra code but different save files for the ME translator.
@@ -31,3 +33,5 @@ NOTE: The save files of what my models learned so far (state data) were too larg
 * val.me - My ME validation data.
 
 * val.pde - My PDE validation data.
+
+* validation.xlsx - The spreadsheet of the glossed translations of validation data.
