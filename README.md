@@ -12,6 +12,10 @@ NOTE: The save files of what my models learned so far (state data) were too larg
 
 * ME-PDE3.py - The primary code that runs my neural machine translator. Most of this is adapted from open source code I got from the tutorial video.
 
+* dataset outline and notes - This is where Rachel and I put all of our initial translations, noting where we got them and any other editors. The comments and notes for this can be seen on the google doc in my Senior Project shared folder, as noted in NOTE.
+
+* test.xlsx - The spreadsheet of the glossed translations of test data.
+
 * test2016.me - My ME test data.
 
 * test2016.pde - My PDE test data.
