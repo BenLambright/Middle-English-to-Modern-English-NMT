@@ -2,7 +2,7 @@
 
 The following is a brief description of the files in this repository.
 
-Chaucer - My dataset of interlinear translations from _The Canterbury Tales_.
+* Chaucer - My dataset of interlinear translations from _The Canterbury Tales_.
 
 ChaucerMaker.py - Code that splits Chaucer to put into my main datasets.
 
