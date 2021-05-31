@@ -1,6 +1,5 @@
-# All of the following code is from these videos: https://www.youtube.com/watch?v=EoGUlvhRYpk
-# and https://www.youtube.com/watch?v=sQUqQddQtB4.
-# I have just made comments throughout so I can understand how to write this kind of code myself.
+# Much of the following code is from this video tutorial: https://www.youtube.com/watch?v=EoGUlvhRYpk.
+
 
 # imports
 import torch # This is Pytorch
