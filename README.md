@@ -1,7 +1,7 @@
 # Senior-Project
 (high school senior project)
 
-A fine-tuned LSTM for translating Middle English to Present-Day English. Based on an open-source German-English LSTM.
+A fine-tuned LSTM for translating Middle English to Present-Day English. Based on an open-source German-English LSTM, with custom scraped and translated Middle English data.
 
 ---
 
